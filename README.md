@@ -14,3 +14,6 @@ MySQL
 Java
 HTML
 Node.js
+
+O que o código faz?
+o codigo serve para adicionar produtos e o valor dos produtos , os produtos com o valor maior de 1000 R$ e mostra o produto mais barato e o preço desse produto
