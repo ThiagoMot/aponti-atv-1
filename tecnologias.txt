@@ -1,0 +1,7 @@
+Minhas tecnologias favoritas:
+
+Python
+MySQL
+Java
+HTML
+Node.js
