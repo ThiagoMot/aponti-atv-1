@@ -16,4 +16,5 @@ HTML
 Node.js
 
 O que o código faz?
-o codigo serve para adicionar produtos e o valor dos produtos , os produtos com o valor maior de 1000 R$ e mostra o produto mais barato e o preço desse produto
+
+Este projeto é um script em Python que funciona como um simulador de carrinho de compras. O código permite cadastrar o nome e o preço de vários produtos e, ao final, exibe o valor total gasto na compra, a quantidade de produtos que custam R$ 1.000,00 ou mais, e o nome do produto mais barato junto com o seu respectivo preço.
